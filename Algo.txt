@@ -1,1 +1,12 @@
-add a step 1a
+1. Pick a pizza place
+2. Pick a time to order
+3. Pick your sides
+4. Pick your toppings
+5. Pick how many pizzas
+6. Order the pizza
+-cell phone number
+-Pick delivery or pick up
+-Pick delivery
+-Told them what pizzas we want
+-Pay them money
+step 1a
